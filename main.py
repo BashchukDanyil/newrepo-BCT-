@@ -1,2 +1,2 @@
-import utils.py as utils
+import utils
 print(utils.factorial(5))
