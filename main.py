@@ -1,6 +1,6 @@
 import utils
 print(utils.factorial(5))
-print(utils.gcd(10, 5))
+print(utils.gcd(40, 12))
 def is_prime(n):
     """Повертає True, якщо число просте, інакше False."""
     if n < 2:
